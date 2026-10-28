@@ -1,0 +1,16 @@
+{
+    "name": "SeweralIdeas.BuildAndUpload.Editor",
+    "rootNamespace": "SeweralIdeas.BuildAndUpload.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

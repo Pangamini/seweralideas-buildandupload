@@ -1,0 +1,11 @@
+{
+  "name": "com.seweralideas.buildandupload",
+  "version": "0.1.0",
+  "displayName": "Build and Upload",
+  "description": "Builds a Unity project from a build profile and uploads the build to itch.io (butler) or Steam (steamcmd) from a staged copy.",
+  "author":
+  {
+    "name": "Seweral Ideas",
+    "email": "seweralideas@gmail.com"
+  }
+}
